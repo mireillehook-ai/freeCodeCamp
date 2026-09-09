@@ -189,6 +189,9 @@ tags
 *.gz
 curriculum/curricula.json
 
+# Personal/local Claude Code settings (per-developer, not shared)
+.claude/settings.local.json
+
 ### Additional Folders ###
 curriculum/dist
 curriculum/build
